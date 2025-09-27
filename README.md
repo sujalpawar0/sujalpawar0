@@ -1,6 +1,6 @@
 
 <!-- Profile Header -->
-<h1 align="center">Hey 👋, I'm <span style="color:#F5821F;">Sujal Pawar</span></h1>
+<h1 align="center">Hey 👋, I'm <span style="color:#F5821F;">Sujal</span></h1>
 <h3 align="center">🚀 Developer | 🛡️ Trainer  | 📚 Lifelong Learner</h3>
 
 ---
